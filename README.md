@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyam-Dutta-PM/fashion-mnist-cnn/blob/main/Fashion_MNIST_model.ipynb)
+
 # FASHION-MNIST-NEURAL-NETWORK-MODEL
 This project implements a Convolutional Neural Network (CNN) to classify images from the Fashion-MNIST dataset using TensorFlow and Keras.
 
